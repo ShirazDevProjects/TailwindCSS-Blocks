@@ -1,0 +1,34 @@
+[
+  {
+    "company_name": "Sony",
+    "model_name": "WH-1000XM6",
+    "short_details": "Often lauded as the best all-around wireless headphones, excelling in noise cancellation, sound quality, and a comfortable design.",
+    "price": 49.99,
+    "image": "/images/headphone-images/sony-WH.png",
+    "bg_color": "#1F2124"
+  },
+  {
+    "company_name": "Bose",
+    "model_name": "Quiet Comfort Ultra Headphones",
+    "short_details": "Known for their industry-leading active noise cancellation, these headphones provide exceptional quietness.",
+    "price": 129,
+    "image": "/images/headphone-images/Bose-Quiet-Comfort.png",
+    "bg_color": "#2D323A"
+  },
+  {
+    "company_name": "Focal",
+    "model_name": "Bathys",
+    "short_details": "If you're an audiophile looking for a premium wireless experience, the Focal Bathys are a top contender.",
+    "price": 89.99,
+    "image": "/images/headphone-images/Focal-Bathys.png",
+    "bg_color": "#505050"
+  },
+  {
+    "company_name": "Sennheiser",
+    "model_name": "Momentum 4 Wireless",
+    "short_details": "These headphones offer fantastic audio quality that competes with some of the best on the market, along with impressive battery life (up to 60 hours).",
+    "price": 100,
+    "image": "/images/headphone-images/Sennheiser-Momentum-4-Wireless.png",
+    "bg_color": "#171B1E"
+  }
+]

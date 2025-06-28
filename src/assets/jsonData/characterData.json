@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Kaelen",
+    "hero_name": "The Glacier Blade",
+    "appearance": "Striking white hair, piercing eyes, and a long red coat with glowing accents. He carries a katana that hums with a soft, internal light and bears ancient, glowing runes.",
+    "region": "The Northern Peaks – A harsh, mountainous land perpetually covered in snow and ice, where the air is thin and the winds howl. Remnants of ancient magical energy still linger in the frozen crags.",
+    "personality": "Stoic and solitary, Kaelen is a man of few words, his gaze often distant as if burdened by unseen memories. Despite his reserved nature, he possesses a fierce, unwavering resolve. He respects strength and honor above all else.",
+    "abilities": "Master swordsman with superhuman speed and agility. His katana, 'Frostbite', is imbued with glacial magic, allowing him to create ice constructs, unleash freezing slashes, and move with unnatural swiftness across icy terrain. The glowing runes on his blade are said to pulse with the echoes of ancient guardians, granting him insights into past battles and hidden pathways.",
+    "story_snippet": "Kaelen wanders the Northern Peaks, a self-imposed exile after a great loss. He seeks to eradicate the fragmented dark magic that occasionally seeps from the mountains' forgotten depths, believing it to be a lingering threat from a past cataclysm. He once belonged to an order of guardians, now scattered, who protected the world from such encroaching shadows. The glowing lines on his coat and sword are not just for show; they are conduits for the residual magic he wields, acting as both a power source and a warning of his potent abilities. He often encounters rogue ice elementals or desperate bandits, easily dispatching them with chilling efficiency.",
+    "video": "./videos/character-videos/man-with-katana.mp4",
+    "image": "./images/character-images/man-with-katana.jpeg",
+    "background": "./images/character-images/backgrounds/man-with-katana-bg.png"
+  },
+  {
+    "name": "Lyra",
+    "hero_name": "The Azure Siren",
+    "appearance": "Vibrant blue hair, captivating blue eyes, and attire suited for aquatic movement. She wields a unique staff topped with a glowing orb and is surrounded by swirling water, even in the absence of a large body of it.",
+    "region": "The Sunken City of Aethelgard – A magnificent, ancient metropolis now submerged beneath a vast, luminous ocean. It's a place of incredible coral formations, bioluminescent flora and fauna, and architecture that defies conventional understanding, hinting at a highly advanced, water-attuned civilization.",
+    "personality": "Playful and curious, but with an underlying current of deep wisdom and a fierce protective instinct for her aquatic home. She's graceful and fluid in her movements, mirroring the water she commands. She enjoys observing the surface world from afar but rarely intervenes.",
+    "abilities": "A powerful hydrokinetic, Lyra can manipulate water with incredible precision and force. She can create tidal waves, summon water elementals, form protective bubbles, and even breathe underwater indefinitely. Her staff, 'Tidecaller', amplifies her abilities and allows her to communicate with marine life. She can also project her voice across vast underwater distances, leading to her 'Siren' moniker.",
+    "story_snippet": "Lyra is a guardian of the Sunken City of Aethelgard, a relic of a past golden age. She ensures the delicate balance of the underwater ecosystem and protects the city's ancient knowledge from those who would exploit it. Lately, she's sensed tremors from the surface world – echoes of powerful magic being unleashed, some of which disturb her tranquil domain. She often sends out scouts, schools of highly intelligent fish, to gather information about the surface world. Her greatest concern is the encroaching pollution and the disruptive influence of new, uncontrolled magical energies.",
+    "video": "./videos/character-videos/mage-in-water.mp4",
+    "image": "./images/character-images/mage-in-water.jpeg",
+    "background": "./images/character-images/backgrounds/mage-in-water-bg.png"
+  },
+  {
+    "name": "Seraphina",
+    "hero_name": "The Crimson Vanguard",
+    "appearance": "Striking red hair, clad in sleek, futuristic full plate armor with glowing cyan accents. She holds a small, contained flame in her open palm. The city lights of a metropolis stretch behind her.",
+    "region": "Neo-Veridia – A sprawling, technologically advanced metropolis built on the ruins of an older world. It's a city of towering skyscrapers, neon lights, and intricate networks of airborne transportation. While advanced, it also has a burgeoning underworld and faces threats from both rogue tech and nascent magical anomalies.",
+    "personality": "Disciplined and pragmatic, Seraphina is a true warrior dedicated to justice and order. She is fiercely protective of the innocent and possesses a strong moral compass. Beneath her stern exterior, there’s a flicker of passion, especially when it comes to defending her city.",
+    "abilities": "A highly skilled combatant trained in advanced weaponry and close-quarters combat. Her armor, 'Aegisweave', is infused with a unique form of energy, granting her enhanced strength, durability, and limited flight capabilities. The flame she wields is not just fire; it's a manifestation of her inner spirit and a conduit for a nascent energy manipulation ability, allowing her to generate bursts of heat or focused energy blasts. She’s also a master strategist.",
+    "story_snippet": "Seraphina is a high-ranking enforcer in Neo-Veridia's defense forces, tasked with maintaining peace and combating both technological threats and the rare, emerging magical phenomena within the city. She often deals with criminal syndicates using advanced weaponry or individuals whose latent magical abilities have spiraled out of control. The flame she holds is a recent, perplexing development, a gift or perhaps a burden she doesn't fully understand, but which she uses with precision and control. She's heard whispers of ancient energies stirring in the distant Northern Peaks and strange, powerful beings lurking beneath the waves, but her focus remains on the immediate threats to Neo-Veridia.",
+    "video": "./videos/character-videos/Knight-with-flame-in-hand.mp4",
+    "image": "./images/character-images/Knight-with-flame-in-hand.jpeg",
+    "background": "./images/character-images/backgrounds/Knight-with-flame-in-hand-bg.png"
+  },
+  {
+    "name": "Eldrin",
+    "hero_name": "The Verdant Sentinel",
+    "appearance": "A cloaked figure with glowing eyes, adorned in armor made of intricately woven wood and leaves, with antlers emerging from the cowl. He holds a glowing orb of golden, swirling energy. He stands amidst a dense, ancient forest.",
+    "region": "The Whispering Woods – A vast, primeval forest that stretches for hundreds of miles, seemingly untouched by civilization. It's a place of ancient trees, hidden glades, and powerful, elemental spirits. Time seems to move differently here.",
+    "personality": "Calm, patient, and deeply connected to nature, Eldrin speaks in hushed tones, his voice carrying the rustle of leaves and the sigh of wind. He is a guardian of the forest's delicate balance and fiercely protective of its sanctity. He views the encroaching advancements of the outside world with cautious concern.",
+    "abilities": "A powerful druid and elemental mage, Eldrin commands the forces of nature. He can grow plants at an accelerated rate, communicate with animals, summon nature elementals, and mend the natural world. The golden orb he wields is a condensed form of raw life energy, which he can unleash as restorative light or destructive blasts of pure natural force. He can also meld into the forest, becoming virtually invisible.",
+    "story_snippet": "Eldrin is the timeless protector of the Whispering Woods, one of the last true wild places in the world. He has watched civilizations rise and fall from his verdant sanctuary. He is acutely aware of the shifting magical currents across the world, sensing the raw, uncontrolled power in the Northern Peaks and the disciplined but sometimes destructive energies of Neo-Veridia. He feels the distant ripples from the submerged city, a place he knows holds ancient, powerful secrets of its own. His main concern is the encroachment of civilization and the imbalance it brings. He occasionally ventures to the edge of the forest to observe the 'surface world,' sometimes encountering lost travelers and guiding them, or subtly diverting those who would exploit the woods.",
+    "video": "./videos/character-videos/nature-character.mp4",
+    "image": "./images/character-images/nature-character.jpeg",
+    "background": "./images/character-images/backgrounds/nature-character-bg.png"
+  }
+]
