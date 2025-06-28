@@ -35,7 +35,3 @@ A collection of modern, animated UI blocks built with React and TailwindCSS. Thi
 
 [Watch the tutorial on YouTube](https://www.youtube.com/@ShirazDev)  
 **Subscribe for more UI tutorials!**
-
----
-
-Feel free to contribute or suggest new blocks!
