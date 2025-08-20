@@ -1,0 +1,20 @@
+[
+  {
+    "drink name": "Strawberry Refresh",
+    "short description": "A delightful and refreshing strawberry juice, perfect for a sweet and fruity escape. Made from ripe, juicy strawberries, this drink offers a burst of natural flavor in every sip.",
+    "image": "",
+    "bg_color": "#F7D4E1"
+  },
+  {
+    "drink name": "Zesty Orange",
+    "short description": "A vibrant and tangy orange juice, delivering a burst of citrusy goodness. Made from freshly squeezed oranges, it’s a refreshing and invigorating drink for any time of day.",
+    "image": "",
+    "bg_color": "#FFF2E0"
+  },
+  {
+    "drink name": "Tropical Mango",
+    "short description": "Experience the luscious taste of the tropics with this smooth and sweet mango juice. Crafted from ripe, succulent mangoes, it's a truly refreshing and exotic treat.",
+    "image": "",
+    "bg_color": "#558B2F"
+  }
+]
